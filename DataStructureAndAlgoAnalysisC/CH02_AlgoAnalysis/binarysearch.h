@@ -1,0 +1,1 @@
+int binary_search(const int arr[], int target, int len);

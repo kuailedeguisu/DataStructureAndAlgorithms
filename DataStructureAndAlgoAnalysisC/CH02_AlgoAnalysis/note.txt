@@ -1,0 +1,2 @@
+常数，N， logN， logkN（对数乘方），N， NlogN， N2，N3，2N（指数）
+
